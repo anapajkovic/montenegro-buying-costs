@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" font-family="Helvetica, Arial, sans-serif">
+<rect width="1280" height="560" fill="#FAF8F4"/>
+<text x="80" y="120" font-size="56" font-weight="700" fill="#1F1F1F">Montenegro buying costs</text>
+<text x="80" y="172" font-size="26" fill="#5A5A5A">New build vs resale, transfer tax, notary, property tax, capital gains</text>
+<rect x="80" y="230" width="350" height="230" rx="14" fill="#FFFFFF" stroke="#E7E2D9" stroke-width="2"/>
+<text x="110" y="285" font-size="24" fill="#5A5A5A">Up to €150,000</text>
+<text x="110" y="370" font-size="76" font-weight="700" fill="#1F1F1F">3%</text>
+<text x="110" y="425" font-size="20" fill="#5A5A5A">resale transfer tax</text>
+<rect x="465" y="230" width="350" height="230" rx="14" fill="#FFFFFF" stroke="#E7E2D9" stroke-width="2"/>
+<text x="495" y="285" font-size="24" fill="#5A5A5A">€150,000 - €500,000</text>
+<text x="495" y="370" font-size="76" font-weight="700" fill="#1F1F1F">5%</text>
+<text x="495" y="425" font-size="20" fill="#5A5A5A">on that part only</text>
+<rect x="850" y="230" width="350" height="230" rx="14" fill="#FFFFFF" stroke="#E7E2D9" stroke-width="2"/>
+<text x="880" y="285" font-size="24" fill="#5A5A5A">Above €500,000</text>
+<text x="880" y="370" font-size="76" font-weight="700" fill="#1F1F1F">6%</text>
+<text x="880" y="425" font-size="20" fill="#5A5A5A">on that part only</text>
+<text x="80" y="515" font-size="22" fill="#1F1F1F">New build from a developer: no transfer tax</text>
+</svg>
